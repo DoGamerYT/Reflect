@@ -1,5 +1,5 @@
 # Reflect
-nvfsdoidjvnauoijvnasio
+dyantho 
 
 Wat heb ik deze lessen nieuw geleerd?
 
@@ -13,4 +13,4 @@ Waarvan zou ik nog meer willen weten?
 
 - ik kan nog meer leren over github zelf en hoe ik git beter kan gebruiken.
 
-![youtube](https://www.youtube.com/img/desktop/yt_1200.png)
+![](yt1200.png)
