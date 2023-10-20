@@ -1,16 +1,12 @@
 # Reflect
-<<<<<<< HEAD
+
 dyantho 
-=======
-nvfsdoidjvnauoijvnasio
 
 ![](dl.jpeg)
 
-Liam DeCamp
-<<<<<<< HEAD
->>>>>>> c42ed00cf9f78eeb5e0e5093edda39cacf6184f1
-=======
->>>>>>> c42ed00cf9f78eeb5e0e5093edda39cacf6184f1
+
+Dyantho
+
 
 Wat heb ik deze lessen nieuw geleerd?
 
@@ -24,4 +20,6 @@ Waarvan zou ik nog meer willen weten?
 
 - ik kan nog meer leren over github zelf en hoe ik git beter kan gebruiken.
 
-![](yt1200.png)
+
+![sdsad](yt1200.png)
+
