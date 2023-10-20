@@ -2,11 +2,6 @@
 
 dyantho 
 
-![](dl.jpeg)
-
-
-Dyantho
-
 
 Wat heb ik deze lessen nieuw geleerd?
 
@@ -23,7 +18,7 @@ Waarvan zou ik nog meer willen weten?
 
 ![sdsad](yt1200.png)
 
-nvfsdoidjvnauoijvnasio
+Liam DeCamp
 
 ![motor](dl.jpeg)
 
