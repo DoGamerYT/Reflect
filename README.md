@@ -3,6 +3,8 @@ nvfsdoidjvnauoijvnasio
 
 ![](dl.jpeg)
 
+Liam DeCamp
+
 Wat heb ik deze lessen nieuw geleerd?
 
 - Ik heb alles over Git en github gellerd sinds de begin van de school jaar. Ik heb geleerd hoe ik commandos schrijft, hoe ik directories maakt en ook hoe je moet branchen en mergen. Ik heb ook geleerd hoe ik repositories moet maken en hoe je het door geeft aan andere mensen om samen aan te werken.
