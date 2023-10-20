@@ -1,7 +1,7 @@
 # Reflect
 nvfsdoidjvnauoijvnasio
 
-![](download(4).jpeg)
+![](dl.jpeg)
 
 Wat heb ik deze lessen nieuw geleerd?
 
