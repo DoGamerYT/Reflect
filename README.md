@@ -1,5 +1,13 @@
 # Reflect
+<<<<<<< HEAD
 dyantho 
+=======
+nvfsdoidjvnauoijvnasio
+
+![](dl.jpeg)
+
+Liam DeCamp
+>>>>>>> c42ed00cf9f78eeb5e0e5093edda39cacf6184f1
 
 Wat heb ik deze lessen nieuw geleerd?
 
